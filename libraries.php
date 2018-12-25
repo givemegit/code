@@ -44,4 +44,27 @@
 */
 
 
+/**
+ * jquery Animate On Scroll Library
+ * AOS
+ * link
+ * https://michalsnik.github.io/aos/
+ * jquery
+ * used in projects
+ * http://star.ge/catalog
+ * papadatos
+*/
+
+
+/**
+ * jquery Animate product filter
+ * filterizr
+ * link
+ * http://yiotis.net/filterizr/#filtering
+ * jquery
+ * used in projects
+ * http://star.ge/catalog
+ * papadatos
+*/
+
 
