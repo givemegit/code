@@ -1,0 +1,12 @@
+# make helpers file laravel for helper funtions.
+# create new file in app for example helpers.php
+# add new functions this file
+# add this file to autoload in composer.json under autoload on line 35.
+#    "classmap": [
+#       "database/seeds",
+#       "database/factories"
+#    ],
+#    "files" : [
+#       "app/helpers.php"
+#    ]
+# 
